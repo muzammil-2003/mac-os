@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.dribbble.com/userupload/44503422/file/8de6a1d4a36ed9245ef283e4d7cf3d1b.png?format=webp&resize=400x300&vertical=center",
+        "title": "Smart Home Dashboard",
+        "description": "A responsive dashboard to monitor and control IoT devices in your smart home.",
+        "tags": ["React", "IoT", "Dashboard", "Node.js"],
+        "repoLink": "https://github.com/username/smart-home-dashboard",
+        "demoLink": "https://username.github.io/smart-home-dashboard"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.dribbble.com/userupload/13807766/file/original-b087b04a9c22b322b831ad804da7c6bf.png?format=webp&resize=400x300&vertical=center",
+        "title": "Fitness Tracker App",
+        "description": "Mobile app to track workouts, nutrition, and daily activity with analytics.",
+        "tags": ["Flutter", "Firebase", "Health", "Mobile"],
+        "repoLink": "https://github.com/username/fitness-tracker-app",
+        "demoLink": "https://username.github.io/fitness-tracker-app"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.dribbble.com/userupload/16932195/file/original-d1ed02fbae8ba2647762e13471103bfd.jpg?crop=0x0-1616x1212&format=webp&resize=640x480&vertical=center",
+        "title": "Portfolio Website",
+        "description": "Personal portfolio website showcasing projects, blogs, and skills.",
+        "tags": ["HTML", "CSS", "JavaScript", "Web Development"],
+        "repoLink": "https://github.com/username/portfolio-website",
+        "demoLink": null
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.dribbble.com/userupload/46783636/file/5ed35d283d1a7cc3a5561aafbffc887a.png?crop=0x0-4512x3384&format=webp&resize=400x300&vertical=center",
+        "title": "AI Chatbot",
+        "description": "A chatbot powered by GPT-style models to answer questions and provide assistance.",
+        "tags": ["AI", "Python", "NLP", "Chatbot"],
+        "repoLink": "https://github.com/username/ai-chatbot",
+        "demoLink": "https://username.github.io/ai-chatbot"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.dribbble.com/userupload/9786833/file/original-0f40c342be5f3182d63e627a327d87f4.png?format=webp&resize=400x300&vertical=center",
+        "title": "2D Platformer Game",
+        "description": "A browser-based 2D platformer game with multiple levels and interactive elements.",
+        "tags": ["JavaScript", "Canvas", "GameDev", "HTML5"],
+        "repoLink": "https://github.com/username/2d-platformer-game",
+        "demoLink": "https://username.github.io/2d-platformer-game"
+    }
+]
